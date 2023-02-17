@@ -69,3 +69,4 @@ FROM international_debt
 GROUP BY country_name
 ORDER BY maximum_debt DESC
 Limit 10;
+
