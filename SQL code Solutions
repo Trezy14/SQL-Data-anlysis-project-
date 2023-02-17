@@ -1,0 +1,1 @@
+first to connect to the international_debt database where the table international_debt is residng, I had to SELECT all of the columns from the international_debt table. Also, limited the output to the first ten rows to keep the output clean.
